@@ -15,6 +15,10 @@ This project involves developing machine learning models to accurately classify 
 - Models: Experimentation with SVM and Random Forest models, including hyperparameter tuning.
 
 ## DATA ANALYSIS
+![alt text](https://github.com/Lara-Tiara/COMP3222-MLT-CW/blob/main/Mean_Length_by_Label_EN.png)
+![alt text](https://github.com/Lara-Tiara/COMP3222-MLT-CW/blob/main/Number_of_Tweets_for_Each_Label.png)
+
+## EVALUATION
 ![alt text](https://github.com/Lara-Tiara/COMP3222-MLT-CW/blob/main/Iteration2_Confusion_Matrix_Best_RF.png)
 ![alt text](https://github.com/Lara-Tiara/COMP3222-MLT-CW/blob/main/Iteration2_Confusion_Matrix_Best_SVM.png)
 
